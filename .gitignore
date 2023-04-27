@@ -1,3 +1,12 @@
 When using JavaScript you are able to write HTML functions, if you don't remember ask Google for eg:
 
-Search how to create a html function in javascript
+Search how to create a html function in javascript...
+
+There are the courses for Javascript:
+https://www.youtube.com/watch?v=DqaTKBU9TZk&t=286s&ab_channel=SuperSimpleDev
+
+using an array for eg: todos. searches all the methods
+
+strings have the same method ability, by using console.log('hello'.toUpperCase()); as an example.
+
+Methods will be used all the time on the job.
