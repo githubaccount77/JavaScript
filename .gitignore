@@ -3,7 +3,7 @@ When using JavaScript you are able to write HTML functions, if you don't remembe
 Search how to create a html function in javascript...
 
 Left Off for Javascript:
-https://youtu.be/SBmSRK3feww?t=3541
+ https://youtu.be/SBmSRK3feww?t=6382
 
 Course Project:
 https://supersimple.dev/projects/amazon/
@@ -18,3 +18,12 @@ strings have the same method ability, by using console.log('hello'.toUpperCase()
 Methods will be used all the time on the job.
 
 Normally use consts in JavaScript unless you wish to change an element then you'll have to use let instead.
+
+Javascript Escape characters:
+
+\' \" \n
+
+In JavaScript you can use ` to create a string.
+
+In JavaScript use single quotes by default, if you need multiple lines then use template strings.
+
