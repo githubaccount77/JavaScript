@@ -27,3 +27,18 @@ In JavaScript you can use ` to create a string.
 
 In JavaScript use single quotes by default, if you need multiple lines then use template strings.
 
+Camel Case is first word not capital second word capital.
+
+Pascal Case is same as camelCase but second word capital PascalCase.
+
+All JavaScript we use camelCase except for one feature we use PascalCase which we will learn later and it will be recorded back here.
+
+kebab-case = lower case but add - not in javascript do we use this but in html and css also in file naming conventions. 
+
+snake_case is underscore it's used in other languages but not in JavaScript.
+
+Const makes code safer and easier to understand but when let it's hard to tell what value is inside of the variable. Best practice is to use const by default and only let when we need to change the variable.
+
+var is the last but it's very old practice.
+
+we can usse typeof variables in JavaScript it's also very useful.
