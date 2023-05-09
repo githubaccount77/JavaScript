@@ -2,8 +2,11 @@ When using JavaScript you are able to write HTML functions, if you don't remembe
 
 Search how to create a html function in javascript...
 
+Operators in JavaScript:
+https://www.w3schools.com/js/js_operators.asp
+
 Left Off for Javascript:
- https://youtu.be/SBmSRK3feww?t=9640
+https://youtu.be/SBmSRK3feww?t=13730
 
 Course Project:
 https://supersimple.dev/projects/amazon/
@@ -41,4 +44,15 @@ Const makes code safer and easier to understand but when let it's hard to tell w
 
 var is the last but it's very old practice.
 
-we can usse typeof variables in JavaScript it's also very useful.
+We can use typeof variables in JavaScript it's also very useful.
+
+Boolean value demonstrates if something is true or false.
+
+if statements decide whether or not to run code based on boolean values true or false...
+
+if statements - create a scope where variables exist. These are present in many programming languages they prevent naming conflicts.
+
+When reassigning a variable in JavaScript you must change from const to let.
+
+Always use triple === in JavaScript.
+
