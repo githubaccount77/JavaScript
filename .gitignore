@@ -3,7 +3,7 @@ When using JavaScript you are able to write HTML functions, if you don't remembe
 Search how to create a html function in javascript...
 
 Leftoff:
-https://youtu.be/SBmSRK3feww?t=21103
+https://youtu.be/SBmSRK3feww?t=24527
 
 Operators in JavaScript:
 https://www.w3schools.com/js/js_operators.asp
@@ -59,3 +59,4 @@ When reassigning a variable in JavaScript you must change from const to let.
 
 Always use triple === in JavaScript.
 
+With Javascript always start classes with .js- it's also important to use buttonELement end with Element for eg;.
