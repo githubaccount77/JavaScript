@@ -49,3 +49,7 @@ function addTodo() {
 
   renderTodoList();
 }
+
+// function removeTodo() {
+//   const inputElement = document.querySelector('.js-name-input');
+//   const name = inputElement.value;
