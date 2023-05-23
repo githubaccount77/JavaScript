@@ -3,7 +3,7 @@ When using JavaScript you are able to write HTML functions, if you don't remembe
 Search how to create a html function in javascript...
 
 Leftoff:
-https://youtu.be/SBmSRK3feww?t=34933
+https://youtu.be/SBmSRK3feww?t=39713
 
 Operators in JavaScript:
 https://www.w3schools.com/js/js_operators.asp
@@ -75,3 +75,5 @@ Line 18 of C:\Users\christopher\Documents\Programming\JavaScript\Scripts\11-todo
 
 Shorthand property - refer to line 42 
 C:\Users\christopher\Documents\Programming\JavaScript\Scripts\11-todo-list.js
+
+Hoisting in JavaScript gives you thre ability to call a function without having to worry about where it is written.
