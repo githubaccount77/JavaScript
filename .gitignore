@@ -77,3 +77,13 @@ Shorthand property - refer to line 42
 C:\Users\christopher\Documents\Programming\JavaScript\Scripts\11-todo-list.js
 
 Hoisting in JavaScript gives you thre ability to call a function without having to worry about where it is written.
+
+Arrow functions - 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+***.map transforms an array into another array.***
+
+Closure if a function has access to a value;
+
+it will always have access to that vlaue.
+
